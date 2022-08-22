@@ -1,0 +1,8 @@
+{
+  "mongoDB": "mongodb+srv://invitebot:invitechecker@cluster0.vymgn.mongodb.net/nojabot?retryWrites=true&w=majority",
+  "kategori":"1011282909921030214",
+  "mod":"1011283064313364531",
+  "rol1":"1011284116777480272",
+  "rol2":"1011284183064248380",
+  "logKanal":"1011283125474709674"
+}
